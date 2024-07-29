@@ -13,7 +13,7 @@
 // New protocols can be easily defined by adding new Growatt<version>.cpp/h
 // files and then specifying the protocol there. See existing procol files
 // for reference.
-#define GROWATT_MODBUS_VERSION 124
+#define GROWATT_MODBUS_VERSION 3000
 
 // On some SPH inverters (Protocol 124) the battery temperature multiplier 
 // differs from the documented value (of 0.1). Set this to 1.0 on these inverters.
